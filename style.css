@@ -15,14 +15,13 @@ body{
         height: 80px;
         width: 80px;
 }
-.kinetic::after,
-.kinetic::before{
+.kinetic::before, .kinetic::after{
         content: " ";
         position: absolute;
         top: 0;
         left: 0;
-        width: 0px;
-        height: 0px;
+        width: 1px;
+        height: 10px;
         border-radius: 10px;
         border: 50px solid transparent;
         border-bottom-color:#fff ;
