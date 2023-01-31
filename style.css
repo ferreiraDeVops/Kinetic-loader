@@ -55,7 +55,7 @@ body{
         50%,
         75%{
                 transform: rotate(270deg);
-                border-bottom-color: red;
+                border-bottom-color:yellowgreen;
         }
         100%{
                 transform: rotate(450deg);
