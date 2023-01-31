@@ -39,11 +39,11 @@ body{
         50%,
         75%{
                 transform: rotate(180deg);
-                border-bottom-color: red;
+                border-bottom-color: green ;
         }
         100%{
                 transform: rotate(360deg);
-                border-bottom-color:black ;
+                border-bottom-color:blue ;
         }
 
 }
